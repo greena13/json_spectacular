@@ -1,4 +1,7 @@
-# JSONSpectacular
+<p align="center">
+  <img src="https://svgshare.com/i/CRw.svg" width="200px"><br/>
+  <h2 align="center">JSONSpectacular</h2>
+</p>
 
 [![Gem](https://img.shields.io/gem/dt/json_spectacular.svg)]()
 [![Build Status](https://travis-ci.org/greena13/json_spectacular.svg)](https://travis-ci.org/greena13/json_spectacular)
