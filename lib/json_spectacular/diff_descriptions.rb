@@ -23,7 +23,7 @@ module JSONSpectacular
         #        root full objects
         # @return void Diff descriptions are appended directly to message
         def add_diff_to_message(actual_value, expected_value, path = '')
-          diffs_sorted_by_name = HashDiff
+          diffs_sorted_by_name = Hashdiff
                                  .diff(actual_value, expected_value)
                                  .sort_by { |a| a[1] }
 
